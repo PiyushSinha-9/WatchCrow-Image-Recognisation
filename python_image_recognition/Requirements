@@ -1,0 +1,5 @@
+numpy
+matplotlib
+opencv-python==4.1.2.30  (version 4.1.2.32+ will not work properly because it requires qt.io setup)
+
+ 
